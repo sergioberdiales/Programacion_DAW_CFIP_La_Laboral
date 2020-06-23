@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=letra
+comment1.target=boolean\ esVocal(char)
+comment2.params=letra
+comment2.target=boolean\ esVocal2(char)
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumerosPosNegNulos
+comment0.text=\r\n\ Construir\ un\ algoritmo\ que\ le\u00EDdo\ un\ n\u00FAmero\ por\ teclado\r\n\ nos\ diga\ si\ es\ positivo,\ negativo\ o\ nulo.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

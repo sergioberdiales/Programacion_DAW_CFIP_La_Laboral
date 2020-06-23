@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=numeroe
+comment1.params=
+comment1.target=void\ main()
+comment2.params=numero
+comment2.target=double\ ffactorialr(int)
+comment2.text=\ \ \ \r\n\ \ \ \ //\ Se\ puede\ escribir\ antes\ de\ main,\ pero\ creo\ que\ as\u00ED\ el\ programa\ queda\ m\u00E1s\ claro\r\n\ \ \ \ static\ double\ fcnFactorial\ (\ int\ numero\ )\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //\ Declaramos\ variables\r\n\ \ \ \ \ \ \ \ int\ i;\r\n\ \ \ \ \ \ \ \ double\ factorial\=1;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ if\ (\ numero\ <\ 0\ )\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ el\ factorial\ de\ un\ n\u00FAmero\ negativo\ no\ existe\r\n\ \ \ \ \ \ \ \ \ \ \ \ factorial\ \=\ -1;\r\n\ \ \ \ \ \ \ \ else\ if\ (\ numero\ \=\=\ 0\ ||\ numero\ \=\=\ 1\ )\ \ \ \ \ //\ por\ convenio\ factorial(0)\=factorial(1)\=1\r\n\ \ \ \ \ \ \ \ \ \ \ \ factorial\ \=\ 1;\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (\ i\=2\ ;\ i<\=numero\ ;\ i++\ )\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ factorial\ *\=\ i;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ return\ factorial;\r\n\ \ \ \ }\r\n
+numComments=3

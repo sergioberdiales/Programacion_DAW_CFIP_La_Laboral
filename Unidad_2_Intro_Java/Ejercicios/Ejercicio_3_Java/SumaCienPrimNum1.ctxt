@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SumaCienPrimNum1
+comment0.text=\r\n\ 3.-\ Construir\ un\ algoritmo\ para\ calcular\ y\ escribir\ la\ suma\ de\ los\ \r\n\ 100\ primeros\ n\u00FAmeros\ naturales.\ Utilizar\ las\ estructuras\ PARA,\ MIENTRAS\ Y\ REPETIR.\ \r\n\ Estructura\ "MIENTRAS".\r\n\ \r\n\ @author\ (Sergio\ Berdiales)\r\n\ @version\ (2020-01-22)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

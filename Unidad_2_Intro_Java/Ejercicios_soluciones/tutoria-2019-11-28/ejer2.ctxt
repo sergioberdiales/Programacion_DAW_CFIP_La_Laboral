@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ejer2
+comment1.params=
+comment1.target=int\ lectura_dato()
+comment2.params=num
+comment2.target=long\ sumaDivisores(int)
+comment3.params=num1\ num2
+comment3.target=boolean\ amigos(int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

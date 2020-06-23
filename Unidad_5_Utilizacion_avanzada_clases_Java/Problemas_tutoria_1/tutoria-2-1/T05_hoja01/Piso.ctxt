@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tipo\ numHabitaciones\ m2\ precio\ ciudad\ zona\ comunidad\ exterior
+comment0.target=Piso(TipoVivienda,\ int,\ double,\ double,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment1.params=comunidad
+comment1.target=void\ set_comunidad(double)
+comment2.params=exterior
+comment2.target=void\ set_exterior(boolean)
+comment3.params=
+comment3.target=double\ get_comunidad()
+comment4.params=
+comment4.target=boolean\ get_exterior()
+comment5.params=
+comment5.target=double\ comision()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

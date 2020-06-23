@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=ladoBase\ altura\ color
+comment0.target=Prisma(float,\ float,\ Color)
+comment1.params=ladoBase
+comment1.target=void\ setLadoBase(float)
+comment2.params=altura
+comment2.target=void\ setAltura(float)
+comment3.params=
+comment3.target=float\ getLadoBase()
+comment4.params=
+comment4.target=float\ getAltura()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ calcularSuperficie()
+comment7.params=
+comment7.target=void\ calcularVolumen()
+numComments=8

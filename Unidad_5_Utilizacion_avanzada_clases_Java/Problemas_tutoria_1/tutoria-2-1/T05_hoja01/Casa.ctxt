@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tipo\ numHabitaciones\ m2\ precio\ ciudad\ zona\ parcela\ piscina
+comment0.target=Casa(TipoVivienda,\ int,\ double,\ double,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment1.params=parcela
+comment1.target=void\ set_parcela(double)
+comment2.params=piscina
+comment2.target=void\ set_piscina(boolean)
+comment3.params=
+comment3.target=double\ get_parcela()
+comment4.params=
+comment4.target=boolean\ get_piscina()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

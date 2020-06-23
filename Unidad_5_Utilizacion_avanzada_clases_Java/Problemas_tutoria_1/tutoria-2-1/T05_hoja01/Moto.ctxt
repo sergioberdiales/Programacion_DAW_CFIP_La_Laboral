@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=matricula\ color\ numPlazas
+comment0.target=Moto(java.lang.String,\ java.lang.String,\ int)
+comment1.params=matricula\ color\ numRuedas\ cilindrada\ potencia\ numPlazas
+comment1.target=Moto(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=numPlazas
+comment2.target=void\ set_numerodeplazas(int)
+comment3.params=
+comment3.target=int\ get_numerodeplazas()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

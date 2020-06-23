@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=radio\ color
+comment0.target=Esfera(float,\ Color)
+comment1.params=radio
+comment1.target=void\ setRadio(float)
+comment2.params=
+comment2.target=float\ getRadio()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ calcularSuperficie()
+comment5.params=
+comment5.target=void\ calcularVolumen()
+numComments=6

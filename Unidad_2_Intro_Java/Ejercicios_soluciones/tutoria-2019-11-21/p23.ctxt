@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=p23
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=b\ exp
+comment2.target=float\ fPotencia(float,\ int)
+numComments=3
