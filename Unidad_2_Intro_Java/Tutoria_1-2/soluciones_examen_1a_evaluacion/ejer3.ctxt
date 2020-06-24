@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=limiteinferior\ limitesuperior
+comment0.target=int\ fLecturaDato(int,\ int)
+comment1.params=dato
+comment1.target=boolean\ esPrimo(int)
+comment2.params=numero
+comment2.target=int\ primoAnterior(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

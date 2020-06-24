@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=p22
+comment1.params=v1\ v2
+comment1.target=double\ sumar(double,\ double)
+comment2.params=v1\ v2
+comment2.target=double\ restar(double,\ double)
+comment3.params=v1\ v2
+comment3.target=double\ multiplicar(double,\ double)
+comment4.params=v1\ v2
+comment4.target=double\ dividir(double,\ double)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
