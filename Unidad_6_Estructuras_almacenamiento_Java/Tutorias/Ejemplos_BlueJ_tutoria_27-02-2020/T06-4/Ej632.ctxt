@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ej632
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=matriz
+comment2.target=void\ mostrarMatriz(int[][])
+comment3.params=matriz
+comment3.target=void\ generarMatriz(int[][])
+numComments=4

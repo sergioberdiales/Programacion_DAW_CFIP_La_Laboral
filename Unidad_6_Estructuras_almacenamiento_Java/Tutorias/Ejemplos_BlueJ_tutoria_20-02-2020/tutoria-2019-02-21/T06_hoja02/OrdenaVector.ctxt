@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=vector
+comment0.target=void\ baraja(int[])
+comment1.params=vector
+comment1.target=void\ burbuja(int[])
+comment2.params=vector\ izda\ dcha
+comment2.target=void\ rapida(int[],\ int,\ int)
+numComments=3

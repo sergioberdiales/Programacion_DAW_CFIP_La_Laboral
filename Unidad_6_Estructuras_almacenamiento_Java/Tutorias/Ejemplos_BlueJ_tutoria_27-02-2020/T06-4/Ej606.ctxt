@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ej606
+comment0.text=\r\n\ Genera\ una\ matriz\ 5x5\ de\ valores\ enteros\ comprendidos\ entre\ -2\ y\ 2.\r\n\ Comprueba,\ a\ trav\u00E9s\ de\ una\ funci\u00F3n,\ si\ la\ matriz\ es\ diagonal\ o\ no.\r\n\ Una\ matriz\ cuadrada\ es\ diagonal\ si\ todos\ los\ elementos\ que\ no\ pertenecen\r\n\ a\ la\ diagonal\ principal\ son\ nulos.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=matriz
+comment2.target=boolean\ esDiagonal(int[][])
+comment3.params=matriz
+comment3.target=boolean\ esDiagonal1(int[][])
+comment4.params=matriz
+comment4.target=boolean\ esDiagonal2(int[][])
+comment5.params=matriz
+comment5.target=void\ muestraMatriz(int[][])
+numComments=6

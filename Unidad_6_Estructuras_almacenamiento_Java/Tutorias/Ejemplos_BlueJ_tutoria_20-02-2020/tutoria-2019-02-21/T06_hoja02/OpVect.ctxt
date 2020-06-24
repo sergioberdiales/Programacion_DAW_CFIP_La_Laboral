@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=vector
+comment0.target=void\ muestraVector(int[])
+comment1.params=vector\ vInicial\ vFinal
+comment1.target=void\ generaAleatorio(int[],\ int,\ int)
+numComments=2

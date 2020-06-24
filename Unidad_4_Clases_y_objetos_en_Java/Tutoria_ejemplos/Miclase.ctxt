@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Miclase()
+comment1.params=valorInicial_a
+comment1.target=Miclase(int)
+comment2.params=valorInicial_a\ valorInicial_b
+comment2.target=Miclase(int,\ int)
+comment3.params=valorPara_a
+comment3.target=void\ set_a(int)
+comment4.params=
+comment4.target=int\ get_a()
+numComments=5
